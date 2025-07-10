@@ -1,8 +1,8 @@
 [package]
 name = "cliquery"
 version = "0.1.0"
-edition = "2021"
-authors = ["Toi-même <ta@mail>"]
+edition = "2025"
+authors = ["binary-grunt <codegrunt@proton.me>"]
 license = "MIT"
 description = "Version Rust autonome et sécurisée de ShellGPT."
 readme = "README.md"
